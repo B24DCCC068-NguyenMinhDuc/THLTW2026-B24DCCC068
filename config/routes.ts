@@ -42,8 +42,12 @@
 		icon: 'OrderedListOutlined',
 		component: './TodoList',
 	},
-
-	// DANH MUC HE THONG
+	{
+		path: '/bai-tap-1',
+		name: 'BaiTap1',
+		icon: 'FileTextOutlined',
+		component: './BaiTap1',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
