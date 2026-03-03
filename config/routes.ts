@@ -48,6 +48,18 @@
 		icon: 'FileTextOutlined',
 		component: './BaiTap1',
 	},
+	{
+		path: '/TH01-bai1',
+		name: 'TH01-Baitap1',
+		icon: 'FileTextOutlined',
+		component: './TH01-Bai1',
+	},
+	{
+		path: '/TH02-bai2',
+		name: 'TH01-Baitap2',
+		icon: 'FileTextOutLined',
+		component: './TH01-Bai2',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
