@@ -55,10 +55,22 @@
 		component: './TH01-Bai1',
 	},
 	{
-		path: '/TH02-bai2',
+		path: '/TH01-bai2',
 		name: 'TH01-Baitap2',
-		icon: 'FileTextOutLined',
+		icon: 'FileTextOutlined',
 		component: './TH01-Bai2',
+	},
+	{
+		path: '/TH02-bai1',
+		name: 'TH02-Baitap1',
+		icon: 'FileTextOutlined',
+		component: './TH02-Bai1'
+	},
+	{
+		path: '/TH02-bai2',
+		name: 'TH02-Baitap2',
+		icon: 'EditOutlined',
+		component: './TH02-Bai2',
 	},
 	// {
 	// 	name: 'DanhMuc',
