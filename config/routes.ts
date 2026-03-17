@@ -72,6 +72,12 @@
 		icon: 'EditOutlined',
 		component: './TH02-Bai2',
 	},
+	{
+		path: '/TH03',
+		name: 'TH03',
+		icon: 'CustomerServiceOutlined',
+		component: './TH03',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
