@@ -78,6 +78,12 @@
 		icon: 'CustomerServiceOutlined',
 		component: './TH03',
 	},
+	{
+		path: './TH04',
+		name: 'TH04',
+		icon: 'CheckCircleOutlined',
+		component: './TH04',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
