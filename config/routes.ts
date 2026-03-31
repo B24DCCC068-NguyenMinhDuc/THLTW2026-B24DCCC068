@@ -84,6 +84,12 @@
 		icon: 'CheckCircleOutlined',
 		component: './TH04',
 	},
+	{
+		path: './TH05',
+		name: 'TH05 - Clubs Management',
+		icon: 'ApartmentOutlined',
+		component: './TH05',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
