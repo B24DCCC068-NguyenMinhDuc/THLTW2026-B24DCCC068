@@ -79,10 +79,28 @@
 		component: './TH03',
 	},
 	{
-		path: './TH04',
+		path: '/TH04',
 		name: 'TH04',
 		icon: 'CheckCircleOutlined',
 		component: './TH04',
+	},
+	{
+		path: '/TH05',
+		name: 'TH05 - Clubs Management',
+		icon: 'ApartmentOutlined',
+		component: './TH05',
+	},
+	{
+		path: '/TH06',
+		name: 'TH06 - Travel',
+		icon: 'ApartmentOutlined',
+		component: './TH06',
+	},
+	{
+		path: '/KTGK',
+		name: 'KTGK - Courses Mng',
+		icon: 'EyeOutlined',
+		component: './KTGK'
 	},
 	// {
 	// 	name: 'DanhMuc',
