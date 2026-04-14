@@ -96,6 +96,12 @@
 		icon: 'ApartmentOutlined',
 		component: './TH06',
 	},
+	{
+		path: '/KTGK',
+		name: 'KTGK - Courses Mng',
+		icon: 'EyeOutlined',
+		component: './KTGK'
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
