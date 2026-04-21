@@ -43,64 +43,10 @@
 		component: './TodoList',
 	},
 	{
-		path: '/bai-tap-1',
-		name: 'BaiTap1',
-		icon: 'FileTextOutlined',
-		component: './BaiTap1',
-	},
-	{
-		path: '/TH01-bai1',
-		name: 'TH01-Baitap1',
-		icon: 'FileTextOutlined',
-		component: './TH01-Bai1',
-	},
-	{
-		path: '/TH01-bai2',
-		name: 'TH01-Baitap2',
-		icon: 'FileTextOutlined',
-		component: './TH01-Bai2',
-	},
-	{
-		path: '/TH02-bai1',
-		name: 'TH02-Baitap1',
-		icon: 'FileTextOutlined',
-		component: './TH02-Bai1'
-	},
-	{
-		path: '/TH02-bai2',
-		name: 'TH02-Baitap2',
+		path:'/TH07',
+		name: 'TH07',
 		icon: 'EditOutlined',
-		component: './TH02-Bai2',
-	},
-	{
-		path: '/TH03',
-		name: 'TH03',
-		icon: 'CustomerServiceOutlined',
-		component: './TH03',
-	},
-	{
-		path: '/TH04',
-		name: 'TH04',
-		icon: 'CheckCircleOutlined',
-		component: './TH04',
-	},
-	{
-		path: '/TH05',
-		name: 'TH05 - Clubs Management',
-		icon: 'ApartmentOutlined',
-		component: './TH05',
-	},
-	{
-		path: '/TH06',
-		name: 'TH06 - Travel',
-		icon: 'ApartmentOutlined',
-		component: './TH06',
-	},
-	{
-		path: '/KTGK',
-		name: 'KTGK - Courses Mng',
-		icon: 'EyeOutlined',
-		component: './KTGK'
+		component: './TH07',
 	},
 	// {
 	// 	name: 'DanhMuc',
