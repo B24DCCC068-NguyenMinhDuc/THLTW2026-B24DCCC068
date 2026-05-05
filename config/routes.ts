@@ -54,6 +54,12 @@
 		icon: 'EditOutlined',
 		component: './TH08'
 	},
+	{
+		path: '/TH09',
+		name: 'TH09',
+		icon: 'EditOutlined',
+		component: './TH09',
+	},
 	// {
 	// 	name: 'DanhMuc',
 	// 	path: '/danh-muc',
